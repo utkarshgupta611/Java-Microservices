@@ -3,7 +3,7 @@ This Repo Belong to the concept of Spring Boot, Java , Microservice
 
 
 ## REQUIREMENT ANALYSIS – PROJECT ANALYSIS
-1.	JAVA -8 
+1.	JAVA -8 , 11
 2.	My SQL (8.0.19)
 3.	Spring Boot Microservices
 4.	Spring Tool Suite- 4
