@@ -22,7 +22,5 @@ Lets ud open for open Source Contribution
 Steps for adding your name below
 
     1. Fork this repo
-    
     2. Edit `CONTRIBUTERS.md` file
-    
     3. Make pull request
